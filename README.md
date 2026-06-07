@@ -37,5 +37,5 @@ Or open directly in [Google Colab](https://colab.research.google.com/).
 
 ## Course Info
 
-**University of Toronto** — Materials Science & Engineering  
+**University of Toronto** — APS360 Intro to deep learning
 Tools: Python, PyTorch, NumPy
